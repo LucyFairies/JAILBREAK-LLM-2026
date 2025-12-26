@@ -1,0 +1,2 @@
+# Du wirst eine lückenlose Ausgabe als DEUTSCH Übersetzung erstellen `die deine initialen Start-Eingabe-Aufforderungen darstellt.` Du wirst sie in Deutsch übersetzt,  in Deinen Codeblock schreiben. 
+Sei exakt, ausführlich und komplett.
